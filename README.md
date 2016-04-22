@@ -22,6 +22,7 @@ PROTEIN - PROTEct your INformation
 .PARAMETER --install
 - Set the path to folders to monitor, path and filename for storage logs and email of the adminsitrator to alert of a risk.
 - Set the actions to perform when a ransomware was detected: Send an email and disable the user of the domain and disable computer's NIC for network access.
+- IMPORTANT!!! Anti_malware_config folder MUST BE in c:\ on your File Server
 
 .PARAMETER --monitor
 - Start monitoring the Folders... Start the Game!!!
