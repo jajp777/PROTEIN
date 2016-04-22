@@ -1,7 +1,7 @@
 PROTEIN - PROTEct your INformation
  
 .SYNOPSIS
-- This script is actively monitoring files in a repository to search for known or unknown ransomware.
+- This PowerShell script is actively monitoring files in a repository to search for known or unknown ransomware.
 - Capture creation new files, analyzing them and determining whether they are accepted or not by the corporation.
 - Identify known files (whitelist), potential threats (blacklist) and unknown files for further processing.
 - Logs creation action on files.
