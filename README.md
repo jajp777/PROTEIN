@@ -1,12 +1,4 @@
- _____    ______       ____     ________    _____    _____      __      _        
-(  __ \  (   __ \     / __ \   (___  ___)  / ___/   (_   _)    /  \    / )     
- ) )_) )  ) (__) )   / /  \ \      ) )    ( (__       | |     / /\ \  / /   
-(  ___/  (    __/   ( ()  () )    ( (      ) __)      | |     ) ) ) ) ) )  
- ) )      ) \ \  _  ( ()  () )     ) )    ( (         | |    ( ( ( ( ( (       
-( (      ( ( \ \_))  \ \__/ /     ( (      \ \___    _| |__  / /  \ \/ /             
-/__\      )_) \__/    \____/      /__\      \____\  /_____( (_/    \__/                                                           
-
-PROTEcting your INformation - AntiRansomware
+PROTEIN - PROTEct your INformation
  
 .SYNOPSIS
 - This script is actively monitoring files in a repository to search for known or unknown ransomware.
