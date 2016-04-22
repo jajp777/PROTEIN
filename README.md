@@ -34,9 +34,3 @@ PROTEIN - PROTEct your INformation
 
 .PARAMETER --logs
 - Echo by console the log file.
-
-.PARAMETER --find /u:username /a:action /d:date
-- Find logs by user.
-    /u:username Find all logs performed by the user.
-    /a:action   Find all logs group by action performed. Action = Created, Deleted, Changed, Renamed.
-    /d:date     Find all logs performed in a specific date. Format dd/mm/aaaa.
