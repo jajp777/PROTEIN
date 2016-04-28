@@ -15,7 +15,7 @@ PROTEIN - PROTEct your INformation
 
 .INSTALATION
 - ./protein.ps1 --install
-- ./protein.ps1 --coinfigure
+- ./protein.ps1 --configure
 
 .NOTES
 - Author		: Amador Pérez Trujillo
