@@ -13,6 +13,10 @@ PROTEIN - PROTEct your INformation
 .REQUIREMENTS
 - Run this script as an administrator to control computers and domain users remotely.
 
+.INSTALATION
+- ./protein.ps1 --install
+- ./protein.ps1 --coinfigure
+
 .NOTES
 - Author		: Amador Pérez Trujillo
 - Twitter		: @c0p3rnic
